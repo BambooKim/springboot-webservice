@@ -1,2 +1,0 @@
-org/example/springboot/Application.java
- org.example.springboot.Application
